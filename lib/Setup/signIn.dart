@@ -18,6 +18,7 @@ class _LoginPageState extends State<LoginPage> {
   String email = '';
   String password = '';
 
+
   @override
   Widget build(BuildContext context) {
     // ユーザー情報を受け取る
